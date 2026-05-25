@@ -1,7 +1,7 @@
 [
  {
     "title": "Phoenix Finserv",
-    "image": "public/assets/images/phoenix.png",
+    "image": "/assets/images/phoenix.png",
     "description": "Phoenix Finserv is a modern financial services platform featuring multiple service modules and detailed sub-service categories, including Protection, Mortgage, Commercial Lending, Pensions, and Estate Planning. The website includes dynamic dropdown navigation, responsive UI sections, reusable components, and interactive business-focused layouts built with React.js, TypeScript, and Tailwind CSS.",
     "services": ["Protection", "Mortgage", "Commercial Lending", "Pensions", "Wills & Estate Planning"],
     "tech": ["React.js", "TypeScript", "Tailwind CSS", "Responsive Design", "Dynamic Menus", "Interactive Components"],
