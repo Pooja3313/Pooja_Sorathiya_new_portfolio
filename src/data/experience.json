@@ -1,0 +1,98 @@
+[
+  {
+    "type": "Freelance",
+    "role": "Full-Stack Developer (MERN)",
+    "company": "Self-Employed",
+    "location": "Remote",
+    "period": "2026",
+    "summary": "Delivering high-quality web applications for diverse clients with focus on modern frontend and scalable backend solutions.",
+    "responsibilities": [
+      "Architected and developed full-stack MERN applications from concept to deployment",
+      "Implemented interactive UI components with advanced animations and smooth user experiences",
+      "Optimized performance and ensured responsive design across all devices",
+      "Managed project timelines and client communications for successful delivery"
+    ],
+    "tech": ["React.js", "TypeScript", "Node.js", "MongoDB", "Express.js", "Tailwind CSS", "REST APIs", "Framer Motion", "Vite"],
+    "projects": [
+      {
+        "name": "Phoenix Website",
+        "description": "A sleek and responsive modern website featuring animated sections, service showcases, smooth transitions, and optimized user experience. Developed using React.js, TypeScript, and Tailwind CSS with reusable and scalable frontend architecture.",
+        "tech": ["React.js", "TypeScript", "Tailwind CSS", "Framer Motion", "Animations"],
+        "links": {
+          "live": "https://phoenix-website-lilac.vercel.app/",
+          "github": "https://github.com/Pooja3313/phoenix-website"
+        }
+      },
+      {
+        "name": "Phoenix Finserv",
+        "description": "A professional financial services platform featuring multiple service modules and detailed sub-service categories, including Protection, Mortgage, Commercial Lending, Pensions, and Estate Planning. The website includes dynamic dropdown navigation, responsive UI sections, reusable components, and interactive business-focused layouts built with React.js, TypeScript, and Tailwind CSS.",
+        "services": ["Protection", "Mortgage", "Commercial Lending", "Pensions", "Wills & Estate Planning"],
+        "features": ["Multi-Service Architecture", "Dynamic Dropdown Navigation", "Financial Service Pages", "Sub-Service Categories", "Responsive UI Design", "Interactive Hero Sections", "Contact & Quote Forms", "Reusable Components", "Smooth Navigation Experience", "Optimized Frontend Performance"],
+        "tech": ["React.js", "TypeScript", "Tailwind CSS", "Responsive Design", "Dynamic Menus", "Interactive Components"],
+        "links": {
+          "github": "https://github.com/Pooja3313/phoenix-finserv"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Full-time",
+    "role": "Associate Full-Stack Developer (MERN)",
+    "company": "E2logy Software Solutions Pvt. Ltd.",
+    "location": "Ahmedabad, Gujarat",
+    "period": "2025",
+    "summary": "Working on full-stack MERN applications with modern development practices and agile methodologies.",
+    "responsibilities": [
+      "Build high-performance web applications using MERN stack technologies",
+      "Create clean, reusable, and user-friendly UI components",
+      "Manage and structure database models for efficient data flow",
+      "Work closely with product, design, and QA teams to deliver features on time"
+    ],
+    "tech": ["React.js", "Node.js", "MongoDB", "MySQL", "Express.js", "REST APIs", "React Hooks", "Tailwind CSS"]
+  },
+  {
+    "type": "Hybrid",
+    "role": "Full-Stack Developer (MERN)",
+    "company": "Ekta Infotech Services",
+    "location": "Surat, Gujarat",
+    "period": "2025",
+    "summary": "Working on full-stack MERN applications with modern development practices and agile methodologies.",
+    "responsibilities": [
+      "Developing scalable web applications using React.js and Node.js",
+      "Implementing responsive UI components with modern CSS frameworks",
+      "Designing and optimizing MongoDB database schemas",
+      "Collaborating with cross-functional teams in agile environment"
+    ],
+    "tech": ["React.js", "Node.js", "MongoDB", "MySQL", "Express.js", "REST APIs", "React Hooks", "Tailwind CSS"]
+  },
+  {
+    "type": "Full-time",
+    "role": "React.js Developer",
+    "company": "Tech Elecon Pvt. Ltd.",
+    "location": "Anand, Gujarat",
+    "period": "2023 — 2024",
+    "summary": "Focused on frontend development using React.js and modern JavaScript frameworks.",
+    "responsibilities": [
+      "Built responsive and interactive user interfaces",
+      "Implemented state management solutions using Redux",
+      "Integrated RESTful APIs and third-party services",
+      "Optimized application performance and user experience"
+    ],
+    "tech": ["React.js", "Redux", "JavaScript ES6+", "CSS3", "HTML5", "React Hooks", "Material UI"]
+  },
+  {
+    "type": "Internship",
+    "role": "MERN Stack Intern",
+    "company": "Venom Technologies Pvt. Ltd.",
+    "location": "Anand, Gujarat",
+    "period": "2023",
+    "summary": "Worked on industrial MERN stack project, gaining hands-on full-stack experience.",
+    "responsibilities": [
+      "Developed full-stack web application using MERN technologies",
+      "Learned industry best practices and coding standards",
+      "Participated in code reviews and team meetings",
+      "Implemented user authentication and authorization"
+    ],
+    "tech": ["MongoDB", "Express.js", "React.js", "Node.js", "JWT", "Payment Gateway"]
+  }
+]

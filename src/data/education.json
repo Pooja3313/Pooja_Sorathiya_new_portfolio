@@ -1,0 +1,32 @@
+[
+  {
+    "year": "2024",
+    "degree": "B.Tech in Computer Engineering",
+    "school": "Birla Vishvakarma Mahavidyalaya College",
+    "location": "Anand, Gujarat",
+    "period": "2021 — 2024",
+    "score": "CPI: 7.0 / 10.0",
+    "grade": "First Class",
+    "summary": "Specialized in computer engineering with focus on software development, data structures, algorithms, and web technologies."
+  },
+  {
+    "year": "2021",
+    "degree": "Diploma in Information Technology",
+    "school": "MS University",
+    "location": "Vadodara, Gujarat",
+    "period": "2018 — 2021",
+    "score": "Percentage: 88.71%",
+    "grade": "Distinction",
+    "summary": "Comprehensive program covering programming fundamentals, database management, web development, and software engineering principles."
+  },
+  {
+    "year": "2017",
+    "degree": "Secondary School Education (10th Grade)",
+    "school": "Shree Swaminarayan Gurukul",
+    "location": "SavarKundla, Amreli, Gujarat",
+    "period": "2016 — 2017",
+    "score": "Percentage: 80.68%",
+    "grade": "A2",
+    "summary": "Built a strong academic foundation in Mathematics, Science, and Language to prepare for advanced education."
+  }
+]

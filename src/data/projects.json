@@ -1,0 +1,46 @@
+[
+ {
+    "title": "Phoenix Finserv",
+    "image": "public/assets/images/phoenix.png",
+    "description": "Phoenix Finserv is a modern financial services platform featuring multiple service modules and detailed sub-service categories, including Protection, Mortgage, Commercial Lending, Pensions, and Estate Planning. The website includes dynamic dropdown navigation, responsive UI sections, reusable components, and interactive business-focused layouts built with React.js, TypeScript, and Tailwind CSS.",
+    "services": ["Protection", "Mortgage", "Commercial Lending", "Pensions", "Wills & Estate Planning"],
+    "tech": ["React.js", "TypeScript", "Tailwind CSS", "Responsive Design", "Dynamic Menus", "Interactive Components"],
+    "links": {"live": "https://phoenix-website-lilac.vercel.app/" }
+  },
+  {
+    "title": "Hotel Booking Engine",
+    "image": "public/assets/images/Hotel_Booking_Engine.png",
+    "description": "A MERN Stack hotel booking system with role-based access (Admin, Hotel Master, Manager). Hotel Masters manage hotel profiles, amenities, room types, and date-wise pricing. The booking module checks availability, validates dates, calculates totals, and stores customer details.",
+    "services": ["Role-Based Authentication", "Hotel Management", "Room Management", "Amenities & Pricing", "Booking System", "Customer Management"],
+    "tech": ["React.js", "Tailwind CSS", "JavaScript", "Node.js", "Express.js", "MySQL"],
+    "links": { "code": "https://github.com/Pooja3313/Hotel_Booking_Engine" }
+  },
+  {
+    "title": "E-Commerce - Shivam Chains & Charms",
+    "image": "public/assets/images/e-commerce-website.png",
+    "description": "Full-stack e-commerce application with user authentication, product management, shopping cart, and Razorpay payment integration.",
+    "tech": ["React", "Node.js", "Express", "MongoDB", "Razorpay", "TypeScript", "Tailwind CSS"],
+    "links": { "live": "https://shivamcharms.com/home" }
+  },
+  {
+    "title": "Pizza Ordering System",
+    "image": "public/assets/images/pizza-website.png",
+    "description": "Pizza ordering e-commerce app with menu browsing, cart, and a secure Stripe payment gateway. Includes an admin dashboard with authentication for order management and tracking.",
+    "tech": ["React.js", "Node.js", "Express", "MongoDB", "Stripe API", "JWT"],
+    "links": { "code": "https://github.com/Pooja3313/pizza_ordering_new" }
+  },
+  {
+    "title": "Travel Management / Reimbursement",
+    "image": "public/assets/images/Travel.png",
+    "description": "Travel Management System where employees submit travel forms for HOD approval and manage trip details. Reimbursement flow with real-time HOD status updates streamlines approvals and claim handling.",
+    "tech": ["React.js", "React Hooks", "HTML", "CSS", "Material UI"],
+    "links": { "code": "https://github.com/Pooja3313/Travel-Management" }
+  },
+  {
+    "title": "Bookstore",
+    "image": "public/assets/images/bookstore_image.png",
+    "description": "Bookstore application with role-based login for buyers, sellers, and admins. Browse, search, add, remove, and purchase books through a seamless e-commerce experience with secure checkout.",
+    "tech": ["React.js", "HTML", "CSS", "JavaScript", "API Integration"],
+    "links": { "code": "https://github.com/Pooja3313/book_pooja", "live": "https://bookstore-pooja.vercel.app/" }
+  }
+]

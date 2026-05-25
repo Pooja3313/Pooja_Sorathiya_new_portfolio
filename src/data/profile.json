@@ -1,0 +1,26 @@
+{
+  "name": "Pooja Sorathiya",
+  "role": "MERN-Stack Developer",
+  "tagline": "Crafting scalable, user-centric web experiences with the MERN stack.",
+  "summary": "I'm a full-stack web developer with 2+ years of hands-on experience building modern, user-centric applications. Skilled across the stack, I specialize in React.js and the MERN ecosystem — turning ideas into scalable, maintainable software through clean and efficient code.",
+  "location": "Surat, Gujarat, India",
+  "email": "sorathiyapooja33@gmail.com",
+  "phone": "+91 8488891091",
+  "resume": "/resume/resume.pdf",
+  "socials": [
+    { "label": "GitHub", "href": "https://github.com/Pooja3313", "icon": "github" },
+    { "label": "LinkedIn", "href": "https://www.linkedin.com/", "icon": "linkedin" },
+    { "label": "Email", "href": "mailto:sorathiyapooja33@gmail.com", "icon": "mail" }
+  ],
+  "stats": [
+    { "value": "2+", "label": "Years Experience" },
+    { "value": "3", "label": "Companies Worked" },
+    { "value": "5+", "label": "Projects Completed" },
+    { "value": "B.Tech", "label": "Computer Engineering" }
+  ],
+  "about": [
+    "I'm a passionate MERN-stack developer with a strong foundation in modern web technologies. My journey began during my studies and has grown through internships and professional roles.",
+    "I specialize in building full-stack web applications using React.js, Node.js, Express.js, and MongoDB — from modern React patterns on the frontend to API and database design on the backend.",
+    "Currently based in Surat, I'm actively seeking exciting opportunities in React.js development and MERN stack projects, particularly freelance and full-time roles where I can ship innovative web solutions."
+  ]
+}

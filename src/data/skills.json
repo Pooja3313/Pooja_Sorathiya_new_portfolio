@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "title": "Frontend Development",
+      "icon": "layout",
+      "items": ["React.js", "JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap", "Responsive Design", "Redux", "Context API"]
+    },
+    {
+      "title": "Backend Development",
+      "icon": "server",
+      "items": ["Node.js", "Express.js", "RESTful APIs", "JWT Authentication", "Middleware", "Server-side Rendering", "API Design", "Error Handling"]
+    },
+    {
+      "title": "Database & Cloud",
+      "icon": "database",
+      "items": ["MongoDB", "Mongoose", "MySQL", "Database Design", "Indexing"]
+    },
+    {
+      "title": "Tools & Technologies",
+      "icon": "wrench",
+      "items": ["GitLab & GitHub", "VS Code", "Postman", "npm / yarn", "Vite", "Chrome DevTools", "Figma", "Agile / Scrum"]
+    }
+  ],
+  "strengths": [
+    "Full-Stack Development",
+    "MERN Stack Specialist",
+    "Responsive Web Design",
+    "API Integration",
+    "Problem Solving",
+    "Team Collaboration"
+  ]
+}
