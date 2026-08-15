@@ -41,6 +41,6 @@
     "image": "/assets/images/bookstore_image.png",
     "description": "Bookstore application with role-based login for buyers, sellers, and admins. Browse, search, add, remove, and purchase books through a seamless e-commerce experience with secure checkout.",
     "tech": ["React.js", "HTML", "CSS", "JavaScript", "API Integration"],
-    "links": { "code": "https://github.com/Pooja3313/book_pooja", "live": "https://bookstore-pooja.vercel.app/" }
+    "links": { "code": "https://github.com/Pooja3313/book_pooja" }
   }
 ]
